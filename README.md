@@ -1,2 +1,4 @@
-# rails_application_templates
-Rails Application Templates
+# Rails Application Templates
+
+- [Base](./base.rb)
+- [Vite Rails](./vite_rails.rb)
