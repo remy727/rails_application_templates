@@ -3,5 +3,5 @@ if yes?("== Prepare database? [y/N] ==")
 end
 
 if yes?("== Disable helper generator? [y/N] ==")
-	environment "config.generators.helper = false"
+	environment "config.generators.help = nil"
 end
