@@ -6,7 +6,7 @@ redis_hsh = {
     verify_mode: OpenSSL::SSL::VERIFY_NONE
   },
   network_timeout: 5,
-  pool_timeout: 5,
+  pool_timeout: 5
 }
 
 Sidekiq.configure_server do |config|
